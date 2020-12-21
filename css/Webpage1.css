@@ -1,0 +1,182 @@
+html{
+  text-align: center;
+}
+
+
+body{
+  background-color:#cbfed9;
+  margin: 0 auto;
+  max-width: 1000px;
+  min-width: 1000px;
+}
+
+#one{
+  color:purple;
+  font-size: 105px;
+  padding: 10px;
+  text-decoration:underline;
+}
+
+.link1{
+  border-radius: 60px;
+  font-size: 26px;
+  color: blue;
+  background-color: orange;
+  margin-left: -80px;
+  padding: 10px 20px 10px 20px;
+}
+
+.link2{
+  border-radius: 60px;
+  font-size: 26px;
+  color: blue;
+  background-color: orange;
+  padding: 10px 20px 10px 20px;
+}
+
+.hyperlinks{
+  list-style-type: none;
+}
+
+#lol{
+  font-size: 30px;
+  background-color: green;
+  text-align: center;
+}
+
+.noplay{
+  font-size: 30px;
+  background-color: pink;
+}
+
+nav{
+  color:blue;
+  background-color: yellow;
+}
+
+div:hover{
+  font-size: 40px;
+  color:  rgb(255, 0, 183);
+}
+
+div1{
+  font-size: 50px;
+  color: blue;
+}
+
+div2{
+  color:blue;
+  font-size: 50px;
+
+}
+
+.do{
+    font-size: 50px;
+    text-decoration: underline;
+    background-color: grey;
+    color:orange;
+  }
+
+.two{
+  font-size:4;
+}
+
+table:hover{
+  margin-left: auto;
+  margin-right: auto;
+  background-color: green;
+  color:yellow;
+  min-width: 100%;
+}
+
+caption {
+  color: blue;
+  font-size:
+}
+
+h3{
+  font-size: 40px;
+  color:#00C7FF;
+  text-decoration: underline;
+}
+
+.orange{
+  background-color: orange;
+}
+
+.group{
+  background-color:green ;
+  color:yellow;
+  font-size: 30px;
+}
+
+div4{
+font-size: 50px;
+text-decoration: underline;
+background-color: pink;
+color: green;
+}
+
+#use{
+  color: blue;
+  text-decoration: underline;
+}
+
+#font{
+  font-size: 60px;
+  color: blue;
+  text-decoration: underline;
+  list-style-type: georgian;
+}
+
+#top{
+  font-size:40px;
+  text-decoration: underline;
+}
+
+#name2,#contact2,#age2,#details2{
+  padding: 20px;
+}
+
+#word{
+  font-size: 40px;
+  margin-right:70px;
+  height: 0px;
+  length:20px;
+}
+
+#to{
+  font-style: italic;
+  text-decoration: underline;
+  font-size: 30px;
+}
+
+#yea{
+  font-size: 20px;
+}
+
+.submit:hover{
+  color: #FFC300;
+}
+
+#button{
+  font-size:30px;
+  padding:20px;
+  border-top: 20px;
+  border-radius: 20px;
+  margin: 0 auto;
+}
+
+#submit{
+  font-size: 30px;
+  margin-left: 400px;
+  padding: 20px;
+  border-top: 20px;
+  border-radius: 20px;
+  margin: 0 auto;
+}
+
+form{
+  min-width:100%;
+  font-size: 50px;
+}
